@@ -12,7 +12,7 @@ elif b < a < c:
     print('Условие 3')
     print(b, c, a)
 elif a < c < b:
-    print('Условие 4')
+    print('Условие lesson4')
     print(a, c, b)
 elif c < b < a:
     print('Условие 5')
