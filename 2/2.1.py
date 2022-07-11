@@ -15,7 +15,7 @@ print(l)
 z = input().split()
 li = []
 for i in z:
-    if z.count(i) > 1:
+    if z.count(i) <= 1:
         li.append(i)
 print(li)
 
