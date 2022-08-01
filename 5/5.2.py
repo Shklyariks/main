@@ -6,7 +6,7 @@ a_tuple = tuple(a)
 x = tuple(input(i) for i in input().split())
 print(type(x))
 
-b = input(i) for i in input().split
+b = tuple(input(i) for i in input().split())
 
 
 
